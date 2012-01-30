@@ -14,25 +14,12 @@
    id="svg3880"
    version="1.1"
    inkscape:version="0.48.0 r9654"
-   sodipodi:docname="mallardcheatsheet.svg"
+   sodipodi:docname="mallard-1-0.svg"
    inkscape:export-filename="/home/shaunm/mallardcheatsheet.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <defs
-     id="defs3882">
-    <filter
-       inkscape:collect="always"
-       id="filter4771"
-       x="-0.027270896"
-       width="1.0545418"
-       y="-0.20009854"
-       height="1.4001971">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="1.8529125"
-         id="feGaussianBlur4773" />
-    </filter>
-  </defs>
+     id="defs3882" />
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -41,8 +28,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="509.91102"
-     inkscape:cy="367.72763"
+     inkscape:cx="476.29813"
+     inkscape:cy="442.67912"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -71,7 +58,7 @@
        type="xygrid"
        id="grid4777"
        empspacing="1"
-       visible="false"
+       visible="true"
        enabled="true"
        snapvisiblegridlinesonly="true"
        spacingx="236px"
@@ -87,7 +74,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1139,25 +1126,29 @@
        sodipodi:linespacing="125%"
        id="text5563"
        y="355.35901"
-       x="13"
+       x="9"
        style="font-size:32px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#f57900;fill-opacity:1;stroke:none;font-family:PT Sans;-inkscape-font-specification:PT Sans Bold"
        xml:space="preserve"><tspan
          style="font-size:28px;fill:#f57900"
          y="355.35901"
-         x="13"
+         x="9"
          id="tspan5565"
          sodipodi:role="line">Mallard 1.0</tspan></text>
-    <path
-       inkscape:connector-curvature="0"
-       style="fill:#babdb6;fill-opacity:1;fill-rule:evenodd;stroke:none"
-       d="m 159.79824,358.23427 c 0,0 14.1887,-10.22557 24.20527,-12.90949 10.32594,-2.76683 21.62341,0.64548 21.62341,0.64548 0,0 -10.87957,-10.53802 -21.30072,-7.74569 -10.71416,2.87087 -24.52796,20.0097 -24.52796,20.0097 z"
-       id="path9966-4"
-       sodipodi:nodetypes="czczc" />
-    <path
-       inkscape:connector-curvature="0"
-       id="path5639"
-       d="m 185,339.359 c 0,2.0481 -1.66031,3.70841 -3.7084,3.70841 -2.04811,0 -3.70841,-1.66031 -3.70841,-3.70841 0,-2.04809 1.6603,-3.7084 3.70841,-3.7084 2.04809,0 3.7084,1.66031 3.7084,3.7084 z"
-       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#babdb6;stroke-width:2.4506321;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <g
+       id="g5385"
+       transform="translate(29.99976,-2.7e-4)">
+      <path
+         sodipodi:nodetypes="czczc"
+         id="path9966-4"
+         d="m 159.79824,358.23427 c 0,0 14.1887,-10.22557 24.20527,-12.90949 10.32594,-2.76683 21.62341,0.64548 21.62341,0.64548 0,0 -10.87957,-10.53802 -21.30072,-7.74569 -10.71416,2.87087 -24.52796,20.0097 -24.52796,20.0097 z"
+         style="fill:#babdb6;fill-opacity:1;fill-rule:evenodd;stroke:none"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#babdb6;stroke-width:2.4506321;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         d="m 185,339.359 c 0,2.0481 -1.66031,3.70841 -3.7084,3.70841 -2.04811,0 -3.70841,-1.66031 -3.70841,-3.70841 0,-2.04809 1.6603,-3.7084 3.70841,-3.7084 2.04809,0 3.7084,1.66031 3.7084,3.7084 z"
+         id="path5639"
+         inkscape:connector-curvature="0" />
+    </g>
     <rect
        ry="1.1368684e-13"
        y="767.35901"

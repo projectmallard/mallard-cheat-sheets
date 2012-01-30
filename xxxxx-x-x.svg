@@ -27,9 +27,9 @@
      borderopacity="1"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="484.77551"
-     inkscape:cy="341.04912"
+     inkscape:zoom="4"
+     inkscape:cx="128.2067"
+     inkscape:cy="671.33443"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -74,7 +74,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -211,8 +211,28 @@
          x="245"
          sodipodi:role="line"
          style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:120.00000477%;fill:#cc0000;font-family:PT Sans;-inkscape-font-specification:PT Sans Bold"
-         id="tspan6919" /><tspan
+         id="tspan3109" /><tspan
          y="738.49109"
+         x="245"
+         sodipodi:role="line"
+         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:120.00000477000000387%;fill:#888a85;font-family:PT Sans;-inkscape-font-specification:PT Sans Bold"
+         id="tspan3111">Optional</tspan><tspan
+         y="755.29108"
+         x="245"
+         sodipodi:role="line"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:120.00000477%;fill:#888a85;font-family:PT Sans;-inkscape-font-specification:PT Sans Bold"
+         id="tspan5377">Aluminum 4</tspan><tspan
+         y="772.09106"
+         x="245"
+         sodipodi:role="line"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:120.00000477%;fill:#888a85;font-family:PT Sans;-inkscape-font-specification:PT Sans Bold"
+         id="tspan5379">#888a85ff</tspan><tspan
+         y="788.89105"
+         x="245"
+         sodipodi:role="line"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:120.00000477%;fill:#cc0000;font-family:PT Sans;-inkscape-font-specification:PT Sans Bold"
+         id="tspan6919" /><tspan
+         y="805.6911"
          x="245"
          sodipodi:role="line"
          style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:120.00000477%;font-family:PT Sans;-inkscape-font-specification:PT Sans Bold"
@@ -548,12 +568,20 @@
          x="717"
          y="355.35901"
          style="fill:#d3d7cf">&lt;!-- Cheat Sheet --&gt;</tspan></text>
-    <path
-       inkscape:connector-curvature="0"
-       style="fill:#babdb6;fill-opacity:1;fill-rule:evenodd;stroke:none"
-       d="m 189.79824,358.23427 c 0,0 14.1887,-10.22557 24.20527,-12.90949 10.32594,-2.76683 21.62341,0.64548 21.62341,0.64548 0,0 -10.87957,-10.53802 -21.30072,-7.74569 -10.71416,2.87087 -24.52796,20.0097 -24.52796,20.0097 z"
-       id="path9966-4"
-       sodipodi:nodetypes="czczc" />
+    <g
+       id="g5381">
+      <path
+         sodipodi:nodetypes="czczc"
+         id="path9966-4"
+         d="m 189.79824,358.23427 c 0,0 14.1887,-10.22557 24.20527,-12.90949 10.32594,-2.76683 21.62341,0.64548 21.62341,0.64548 0,0 -10.87957,-10.53802 -21.30072,-7.74569 -10.71416,2.87087 -24.52796,20.0097 -24.52796,20.0097 z"
+         style="fill:#babdb6;fill-opacity:1;fill-rule:evenodd;stroke:none"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#babdb6;stroke-width:2.4506321;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         d="m 215,339.359 c 0,2.0481 -1.66031,3.70841 -3.7084,3.70841 -2.04811,0 -3.70841,-1.66031 -3.70841,-3.70841 0,-2.04809 1.6603,-3.7084 3.70841,-3.7084 2.04809,0 3.7084,1.66031 3.7084,3.7084 z"
+         id="path5639"
+         inkscape:connector-curvature="0" />
+    </g>
     <text
        sodipodi:linespacing="125%"
        id="text5563"
@@ -566,11 +594,6 @@
          x="9"
          id="tspan5565"
          sodipodi:role="line">Mallard xxxxx/x.x</tspan></text>
-    <path
-       inkscape:connector-curvature="0"
-       id="path5639"
-       d="m 215,339.359 c 0,2.0481 -1.66031,3.70841 -3.7084,3.70841 -2.04811,0 -3.70841,-1.66031 -3.70841,-3.70841 0,-2.04809 1.6603,-3.7084 3.70841,-3.7084 2.04809,0 3.7084,1.66031 3.7084,3.7084 z"
-       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#babdb6;stroke-width:2.4506321;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
     <text
        xml:space="preserve"
        style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#888a85;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
