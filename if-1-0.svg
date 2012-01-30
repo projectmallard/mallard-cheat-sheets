@@ -29,7 +29,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="1"
      inkscape:cx="452.76867"
-     inkscape:cy="326.36673"
+     inkscape:cy="341.47384"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -387,7 +387,7 @@
          x="9"
          y="474.29794"
          id="tspan6833"
-         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:PT Sans;-inkscape-font-specification:PT Sans Bold"></tspan><tspan
+         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:PT Sans;-inkscape-font-specification:PT Sans Bold" /><tspan
          sodipodi:role="line"
          x="9"
          y="490.55902"
@@ -438,7 +438,7 @@
          x="9"
          y="610.55902"
          id="tspan6835"
-         style="font-size:16px"></tspan><tspan
+         style="font-size:16px" /><tspan
          sodipodi:role="line"
          x="9"
          y="596.159"
@@ -499,8 +499,10 @@
          sodipodi:role="line"
          x="9"
          y="743.09796"
-         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:120.00000477%;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono"
-         id="tspan3553">    &lt;!-- block elements --&gt;</tspan><tspan
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:120.00000477%;fill:#73d216;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono"
+         id="tspan3553">    &lt;!-- <tspan
+   style="font-style:oblique;-inkscape-font-specification:DejaVu Sans Mono Oblique"
+   id="tspan6996">block elements</tspan> --&gt;</tspan><tspan
          sodipodi:role="line"
          x="9"
          y="757.49792"
