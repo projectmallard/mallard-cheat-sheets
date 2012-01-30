@@ -28,8 +28,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="452.76867"
-     inkscape:cy="341.47384"
+     inkscape:cx="486.96046"
+     inkscape:cy="376.30762"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -46,7 +46,7 @@
        type="xygrid"
        id="grid3888"
        empspacing="4"
-       visible="false"
+       visible="true"
        enabled="true"
        snapvisiblegridlinesonly="true"
        empcolor="#0000ff"
@@ -74,7 +74,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -157,7 +157,7 @@
          x="245"
          sodipodi:role="line"
          style="font-size:16px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:120.00000477%;font-family:PT Sans;-inkscape-font-specification:PT Sans Bold"
-         id="tspan6819"></tspan><tspan
+         id="tspan6819" /><tspan
          y="504.95901"
          x="245"
          sodipodi:role="line"
@@ -194,7 +194,7 @@
          x="245"
          sodipodi:role="line"
          style="font-size:16px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:120.00000477%;font-family:PT Sans;-inkscape-font-specification:PT Sans Bold"
-         id="tspan6878"></tspan><tspan
+         id="tspan6878" /><tspan
          y="610.55902"
          x="245"
          sodipodi:role="line"
@@ -894,13 +894,13 @@
        id="text5553"
        y="355.35901"
        x="245"
-       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#73d216;fill-opacity:1;stroke:none;font-family:PT Sans;-inkscape-font-specification:PT Sans Bold"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#73d216;fill-opacity:1;stroke:none;font-family:PT Sans;-inkscape-font-specification:PT Sans Bold"
        xml:space="preserve"><tspan
          y="355.35901"
          x="245"
          id="tspan5555"
          sodipodi:role="line"
-         style="fill:#73d216;font-size:24px">xmlns:if=&quot;http://projectmallard.org/if/1.0/&quot; </tspan></text>
+         style="fill:#73d216;font-size:20px">xmlns:if=&quot;http://projectmallard.org/if/1.0/&quot; </tspan></text>
     <text
        xml:space="preserve"
        style="font-size:26px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#f57900;fill-opacity:1;stroke:none;font-family:PT Sans;-inkscape-font-specification:PT Sans Bold"
@@ -917,12 +917,12 @@
        sodipodi:linespacing="125%"
        id="text5563"
        y="355.35901"
-       x="13"
-       style="font-size:32px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#4e9a06;fill-opacity:1;stroke:none;font-family:PT Sans;-inkscape-font-specification:PT Sans Bold"
+       x="9"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#4e9a06;fill-opacity:1;stroke:none;font-family:PT Sans;-inkscape-font-specification:PT Sans Bold"
        xml:space="preserve"><tspan
-         style="font-size:28px;fill:#4e9a06"
+         style="font-size:24px;fill:#4e9a06"
          y="355.35901"
-         x="13"
+         x="9"
          id="tspan5565"
          sodipodi:role="line">Mallard if/1.0</tspan></text>
     <path
